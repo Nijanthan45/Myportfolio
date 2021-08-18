@@ -1,0 +1,17 @@
+
+
+/* My Image */
+.about img{
+    padding: 0px 20px;
+    width: 400px;
+    height: 300px;
+}
+.content: ;{
+    padding: 5px;
+}
+.content h2{
+    font-size: 1.7rem;
+}
+.content p{
+    font-size: 1rem;
+}

@@ -1,0 +1,50 @@
+/* Navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 1.0);
+    z-index: -1;
+}
+
+
+/* Headings */
+.heading{
+    font-size: 1.3rem;
+}
+
+/* Gallery Images */
+.gallery img{
+    width: 270px;
+    height: 360px;
+}
+
+
+
+/* About Section */
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+
+.about img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 15px;
+}
+/* Message box */
+#message{
+    width: 40%;
+    height: 200px;
+}
+.input{
+    width: 200px;
+}
+#submit{
+    
+    text-align: center;
+    width: 120px;
+    height:60px;
+}
